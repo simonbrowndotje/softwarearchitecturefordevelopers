@@ -102,27 +102,27 @@ a {
 a:hover {
     color: #08427B;
 }
-.structurizrBackgroundDarker {
+.backgroundDarker {
     background: #02172C;
     color: #ffffff;
 }
-.structurizrBackgroundDark {
+.backgroundDark {
     background: #08427B;
     color: #ffffff;
 }
-.structurizrBackgroundBase {
+.backgroundBase {
     background: #1168BD;
     color: #ffffff;
 }
-.structurizrBackgroundLight {
+.backgroundLight {
     background: #438DD5;
     color: #ffffff;
 }
-.structurizrBackgroundLighter {
+.backgroundLighter {
     background: #85BBF0;
     color: #ffffff;
 }
-.structurizrBackgroundDarker a, .structurizrBackgroundDark a, .structurizrBackgroundBase a, .structurizrBackgroundLight a {
+.backgroundDarker a, .backgroundDark a, .backgroundBase a, .backgroundLight a {
     color: #85BBF0;
 }
 .grayscale {
