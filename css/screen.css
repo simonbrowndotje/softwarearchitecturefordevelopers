@@ -1,0 +1,153 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.centered {
+    text-align: center;
+}
+#header {
+  background: #08427B;
+  color: #ffffff;
+  text-align: center;
+  padding: 100px 10px 100px 10px;
+}
+#header .label {
+  font-size: 13px;
+}
+#footer {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    color: #ffffff;
+    background: #02172C;
+}
+#footer a, #footer a:hover {
+    color: white;
+}
+#footer .container {
+    font-size: 13px;
+}
+.container {
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.section {
+    border-bottom: 1px solid #f2f2f2;
+    margin-right: 0;
+    margin-left: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.section:nth-child(even) {
+    background: #ffffff;
+}
+.section:nth-child(odd) {
+    background: #eeeeee;
+}
+.row {
+    padding-bottom: 20px;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+#header h1 {
+    font-weight: bold;
+    font-size: 50px;
+    color: #ffffff;
+}
+h2 {
+    font-weight: bold;
+}
+#header h2 {
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+}
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+h4 {
+    font-size: 18px;
+    font-weight: bold;
+}
+h5 {
+    font-size: 16px;
+    font-weight: bold;
+}
+.mapCaption {
+    margin-top: 10px;
+    font-size: 11px;
+    text-align: center;
+}
+.caption {
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+}
+.img-thumbnail {
+    color: #ddd;
+}
+a {
+    color: #1168BD;
+    font-weight: normal;
+}
+a:hover {
+    color: #08427B;
+}
+.structurizrBackgroundDarker {
+    background: #02172C;
+    color: #ffffff;
+}
+.structurizrBackgroundDark {
+    background: #08427B;
+    color: #ffffff;
+}
+.structurizrBackgroundBase {
+    background: #1168BD;
+    color: #ffffff;
+}
+.structurizrBackgroundLight {
+    background: #438DD5;
+    color: #ffffff;
+}
+.structurizrBackgroundLighter {
+    background: #85BBF0;
+    color: #ffffff;
+}
+.structurizrBackgroundDarker a, .structurizrBackgroundDark a, .structurizrBackgroundBase a, .structurizrBackgroundLight a {
+    color: #85BBF0;
+}
+.grayscale {
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%);
+}
+.grayscale:hover {
+    -webkit-filter: none; /* Chrome, Safari, Opera */
+    filter: none;
+}
+.small {
+    font-size: 13px;
+}
+.smaller {
+    font-size: 11px;
+}
+#navigation {
+    background: #02172C;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+}
+#navigation a {
+    color: #ffffff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
