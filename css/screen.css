@@ -59,16 +59,17 @@ h1 {
 }
 #header h1 {
     font-weight: bold;
-    font-size: 50px;
+    font-size: 70px;
     color: #ffffff;
 }
 h2 {
     font-weight: bold;
 }
 #header h2 {
-    font-weight: bold;
+    font-weight: normal;
     font-size: 20px;
     color: #ffffff;
+    margin-top: 40px;
 }
 h3 {
     font-size: 20px;
